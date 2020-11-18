@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/utils/log"
+	"github.com/dingkegithub/distributelock/utils/log"
 	goredis "github.com/go-redis/redis"
 )
 

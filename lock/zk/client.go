@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/utils/log"
+	"github.com/dingkegithub/distributelock/utils/log"
 	"github.com/samuel/go-zookeeper/zk"
 )
 

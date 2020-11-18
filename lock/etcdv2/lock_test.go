@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/lock"
+	"github.com/dingkegithub/distributelock/lock"
 )
 
 func TestNewEtcdLock1(t *testing.T) {

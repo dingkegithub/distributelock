@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	cluserutils "github.com/dingkegithub/distrubutelock/pkg/clusterutils"
+	cluserutils "github.com/dingkegithub/distributelock/pkg/clusterutils"
 )
 
 type EtcdClient struct {

@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/utils/log"
+	"github.com/dingkegithub/distributelock/utils/log"
 )
 
 var (

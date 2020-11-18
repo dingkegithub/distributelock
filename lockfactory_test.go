@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/lock"
-	"github.com/dingkegithub/distrubutelock/lock/etcdv2"
-	"github.com/dingkegithub/distrubutelock/lock/redis"
+	"github.com/dingkegithub/distributelock/lock"
+	"github.com/dingkegithub/distributelock/lock/etcdv2"
+	"github.com/dingkegithub/distributelock/lock/redis"
 )
 
 type tlog struct {

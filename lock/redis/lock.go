@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/lock"
-	"github.com/dingkegithub/distrubutelock/pkg/commoninterface"
-	"github.com/dingkegithub/distrubutelock/utils/log"
+	"github.com/dingkegithub/distributelock/lock"
+	"github.com/dingkegithub/distributelock/pkg/commoninterface"
+	"github.com/dingkegithub/distributelock/utils/log"
 )
 
 const (

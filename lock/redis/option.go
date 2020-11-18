@@ -3,8 +3,8 @@ package redis
 import (
 	"time"
 
-	"github.com/dingkegithub/distrubutelock/pkg/commoninterface"
-	"github.com/dingkegithub/distrubutelock/utils/log"
+	"github.com/dingkegithub/distributelock/pkg/commoninterface"
+	"github.com/dingkegithub/distributelock/utils/log"
 )
 
 type Mode int

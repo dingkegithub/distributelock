@@ -1,8 +1,8 @@
 package etcdv2
 
 import (
-	"github.com/dingkegithub/distrubutelock/pkg/commoninterface"
-	"github.com/dingkegithub/distrubutelock/utils/log"
+	"github.com/dingkegithub/distributelock/pkg/commoninterface"
+	"github.com/dingkegithub/distributelock/utils/log"
 )
 
 type EtcdOptions struct {
